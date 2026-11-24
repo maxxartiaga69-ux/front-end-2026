@@ -1,0 +1,21 @@
+{
+  "name": "front-end-2026",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "16.4.6",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/turbopack": "4.3.3",
+    "babel-plugin-react-compiler": "1.0.0",
+    "tailwindcss": "4.3.3"
+  }
+}
